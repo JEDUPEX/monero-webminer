@@ -37,7 +37,7 @@ Go to https://moneroocean.stream. This is the pool you are connected to, it will
 
 # How do i know if it works??
 
-1. Open https://najmajmal.github.io/monero-webminer
+1. Open https://jedupex.github.io/monero-webminer
 2. Also Open https://moneroocean.stream in a new tab
 3. Paste in my XMR Address 4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
 4. You will see that "GH-XMR" is Mining. You can also do the same 
